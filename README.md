@@ -1,4 +1,4 @@
-109.28
+wp-selfoss
 ======
 
-My personal wordpress blog theme.
+This is a theme styled like a rss reader and inspired by selfoss.
